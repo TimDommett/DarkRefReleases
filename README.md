@@ -11,7 +11,7 @@ DarkRef is a free reference board app for artists that works seamlessly across i
 | Platform | Download |
 |----------|----------|
 | Windows  | [Download latest](https://github.com/TimDommett/DarkRefReleases/releases/latest) |
-| macOS    | Coming soon |
+| macOS (Apple Silicon) | [Download latest](https://github.com/TimDommett/DarkRefReleases/releases/latest) |
 | iOS      | Coming soon |
 | iPad     | Coming soon |
 

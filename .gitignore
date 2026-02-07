@@ -7,3 +7,4 @@
 *.AppImage
 *.zip
 *.tar.gz
+settings.local.json
