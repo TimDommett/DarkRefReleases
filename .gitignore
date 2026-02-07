@@ -1,0 +1,9 @@
+# Installers and binaries (distributed via GitHub Releases)
+*.exe
+*.dmg
+*.pkg
+*.msi
+*.deb
+*.AppImage
+*.zip
+*.tar.gz
