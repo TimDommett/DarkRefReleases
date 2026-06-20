@@ -1,3 +1,12 @@
+## Download
+
+| Platform | Download |
+|----------|----------|
+| Windows  | [Download latest](https://github.com/TimDommett/DarkRefReleases/releases/latest) |
+| macOS    | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
+| iOS      | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
+| iPad     | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
+
 <p align="center">
   <img src="https://keystone-studios.com/_next/static/media/hero-image.5123e1eb.png" alt="DarkRef" width="100%">
 </p>
@@ -9,15 +18,6 @@
 [Homepage](https://keystone-studios.com/darkref) | [Download](https://github.com/TimDommett/DarkRefReleases/releases/latest) | [Issues](https://github.com/TimDommett/DarkRefReleases/issues)
 
 DarkRef is a free reference board app for artists that works seamlessly across iOS, iPad, Windows, and macOS. Organize your inspiration with images, GIFs, notes, and folders — all in one place.
-
-## Download
-
-| Platform | Download |
-|----------|----------|
-| Windows  | [Download latest](https://github.com/TimDommett/DarkRefReleases/releases/latest) |
-| macOS    | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
-| iOS      | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
-| iPad     | [Download on the App Store](https://apps.apple.com/gb/app/darkref-art-reference-board/id6757864307) |
 
 ## Features
 
