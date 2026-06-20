@@ -1,3 +1,11 @@
+# DarkRef
+
+**Your art references, everywhere you work.**
+
+[Homepage](https://keystone-studios.com/darkref) | [Download](https://github.com/TimDommett/DarkRefReleases/releases/latest) | [Issues](https://github.com/TimDommett/DarkRefReleases/issues)
+
+DarkRef is a free reference board app for artists that works seamlessly across iOS, iPad, Windows, and macOS. Organize your inspiration with images, GIFs, notes, and folders — all in one place.
+
 ## Download
 
 | Platform | Download |
@@ -10,14 +18,6 @@
 <p align="center">
   <img src="https://keystone-studios.com/_next/static/media/hero-image.5123e1eb.png" alt="DarkRef" width="100%">
 </p>
-
-# DarkRef
-
-**Your art references, everywhere you work.**
-
-[Homepage](https://keystone-studios.com/darkref) | [Download](https://github.com/TimDommett/DarkRefReleases/releases/latest) | [Issues](https://github.com/TimDommett/DarkRefReleases/issues)
-
-DarkRef is a free reference board app for artists that works seamlessly across iOS, iPad, Windows, and macOS. Organize your inspiration with images, GIFs, notes, and folders — all in one place.
 
 ## Features
 
