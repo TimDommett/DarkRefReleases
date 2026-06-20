@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://keystone-studios.com/_next/static/media/hero-image.5123e1eb.png" alt="DarkRef" width="100%">
+</p>
+
 # DarkRef
 
 **Your art references, everywhere you work.**
